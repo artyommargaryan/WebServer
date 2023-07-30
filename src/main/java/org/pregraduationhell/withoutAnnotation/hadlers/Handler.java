@@ -1,4 +1,4 @@
-package org.pregraduationhell.withoutAnnnotation.hadlers;
+package org.pregraduationhell.withoutAnnotation.hadlers;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;

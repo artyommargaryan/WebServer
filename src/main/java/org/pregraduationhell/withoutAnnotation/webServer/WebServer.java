@@ -1,7 +1,7 @@
-package org.pregraduationhell.withoutAnnnotation.webServer;
+package org.pregraduationhell.withoutAnnotation.webServer;
 
 import com.sun.net.httpserver.HttpServer;
-import org.pregraduationhell.withoutAnnnotation.hadlers.Handler;
+import org.pregraduationhell.withoutAnnotation.hadlers.Handler;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
