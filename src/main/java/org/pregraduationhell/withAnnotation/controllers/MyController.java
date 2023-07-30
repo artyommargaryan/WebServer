@@ -11,12 +11,12 @@ public class MyController {
     }
 
     @Get("/")
-    public static MethodHandler index() {
+    public MethodHandler index() {
         return new Handler("folder1/index.html");
     }
 
-    @Get("/pag2")
-    public static MethodHandler page2() {
+    @Get("/page2")
+    public MethodHandler page2() {
         return new Handler("folder2/index.html");
     }
 }
